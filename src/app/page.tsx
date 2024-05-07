@@ -21,7 +21,7 @@ export default async function Home() {
           </p>
           <Link
             className="bg-gray-100 hover:bg-gray-300 text-black px-6 py-2 ml-4 rounded-md border border-black mt-4 max-w-[9rem]"
-            href="/sign-up"
+            href="/sign-in"
           >
             Get Started
           </Link>
