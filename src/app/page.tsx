@@ -19,12 +19,13 @@ export default async function Home() {
             Entra y conoce nuestra selección de los mejores restaurantes para
             que te sientas como en casa.
           </p>
+          
           <Link
-            className="bg-gray-100 hover:bg-gray-300 text-black px-6 py-2 ml-4 rounded-md border border-black mt-4 max-w-[9rem]"
-            href="/sign-in"
-          >
-            Get Started
-          </Link>
+                className="bg-gray-100 hover:bg-gray-300 text-black px-6 py-2 rounded-lg border border-black mt-4  ml-4 max-w-[9rem]"
+                href="/sign-in"
+              >
+                Get Started
+              </Link>
         </div>
         <div className="relative flex justify-center">
           <Image
