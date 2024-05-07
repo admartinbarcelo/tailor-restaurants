@@ -39,6 +39,10 @@ POST | "/api/restaurants" | Creates a restaurant.
 GET | "/api/restaaurants/:id" | Retrieve details of a restaurant based on his id.
 DELETE | "/api/delete/:id" | Deletes a restaurant based on his id.
 
+## Easter-Egg
+
+¡Descubre una sorpresa dentro de la aplicación! ¿Puedes descubrir la joya oculta diseñada para los usuarios más observadores?
+
 ## Author
 
 **Adrian Martin**
