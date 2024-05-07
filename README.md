@@ -13,7 +13,7 @@ git clone
 
 cd tailor-rest
 
-place .env file with all environments variables required at root folder
+place .env file with all environments variables required
 ```
 
 ## 2- Usage with CLI
