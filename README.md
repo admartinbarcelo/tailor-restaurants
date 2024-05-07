@@ -3,7 +3,7 @@ Tailor-Hub assignment Built with ```NextJS & ReactJS ```, styled with ```tailwin
 
 ## How it looks
 
-🔗 [Live Demo]()
+🔗 [Live Demo](https://tailor-restaurants-khaki.vercel.app/)
 
 
 ## 1- Download
